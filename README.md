@@ -17,8 +17,8 @@ Linux: Configuração e gerenciamento de servidores, scripts de automação e se
 
 Contato
 
-LinkedIn: [https://www.linkedin.com/in/joão-giron-39591a232/]
+LinkedIn: https://www.linkedin.com/in/joão-giron-39591a232/
 
-E-mail: [joaopedrogiron@outlook.com]
+E-mail: joaopedrogiron@outlook.com
 
 Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar!
